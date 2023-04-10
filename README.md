@@ -4,12 +4,6 @@
 
 - Deploy a NodeJs app by using Docke and Nginx
 
-### Resource
-
-```
-https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-434fe1216b6b
-```
-
 ### Concepts
 
 **Nginx**
@@ -315,3 +309,7 @@ https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-43
    ```
 
 6. Visit `localhost:80` in your browser and you should get a `hello world` message
+
+### Resource
+
+[Resource](https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-434fe1216b6b)
